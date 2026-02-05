@@ -24,9 +24,6 @@ Each group member will work with an individual dataset that connects back to our
 - **Student AI Usage & Academic Performance**  
   Dataset exploring student use of AI tools and potential correlations with grades or GPA.
 
-- **Virtual Learning Environments**  
-  Dataset focusing on online learning platforms (such as Zoom), particularly during the COVID-19 pandemic.
-
 - **AI in Social Spaces & Social Media**  
   Dataset drawn from Reddit threads, Twitter/X posts, or other online forums discussing AI in academic or social contexts.
 
