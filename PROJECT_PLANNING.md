@@ -10,10 +10,10 @@ Our investigation includes cultural objects and practices connected to virtual s
 ### Scope of Investigation
 
 **In Scope:**
-- AI tools used by students in academic settings
-- Online and social media spaces where AI is discussed or used
-- Productivity and learning outcomes associated with AI assistance
-- Academic integrity concerns related to AI (e.g., plagiarism, cheating)
+- Student AI usage and correlation to their grades
+- Social spaces & social media
+- Productivity and learning outcomes with AI assistance
+- Dataset about AI and Academic Integrity / Plagiarism Trends
 
 ---
 
