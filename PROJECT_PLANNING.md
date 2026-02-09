@@ -11,7 +11,7 @@ Our investigation includes cultural objects and practices connected to virtual s
 
 **In Scope:**
 - Student AI usage and correlation to their grades
-- Social spaces & social media
+- Social spaces & social media: https://web.archive.org/web/20030202073115/http://site.aboutface.com/comp_facebook.html
 - Productivity and learning outcomes with AI assistance
 - Dataset about AI and Academic Integrity / Plagiarism Trends
 
