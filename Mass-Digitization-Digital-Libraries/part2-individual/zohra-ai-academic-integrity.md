@@ -1,6 +1,8 @@
 # Part 2: AI and Academic Integrity / Plagiarism Trends  
 **Zohra Hussaini**
 
+dataset: https://copyleaks.com/about-us/press-releases/one-year-later-copyleaks-data-finds-76-spike-in-ai-generated-content-among-students?utm_source=chatgpt.com
+
 ## Digital Objects & Representations
 For my area of focus, digital objects mainly include datasets and reports that track AI usage and plagiarism in student work. One example is reports published by Copyleaks, which analyze trends in AI-generated content found in student assignments. Another example is the MIT Plagiarism Detection Dataset, which contains pairs of texts labeled as plagiarized or not plagiarized and is used for research and model training. These count as digital objects because they are structured digital records created to study academic integrity and AI detection.
 
